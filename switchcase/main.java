@@ -1,47 +1,62 @@
 package switchcase;
-import java.util.Scanner;
+//Print the name of the number (e.g. 5 --> five)
+//        If the user input a number lower than 1 or greater than 10, print Cannot give you the
 public class main {
     public static void main(String[] args) {
-        while (true) {
-            System.out.print("Inserisci un numero tra 1 e 10: ");
-            Scanner scanner = new Scanner(System.in);
-            int numeri= scanner.nextInt();
+             int number = 6;
+             String numberName;
+             switch (number){
+                 case 1:
+                     numberName = "Uno";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 2:
+                     numberName = "Due";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 3:
+                     numberName = "Tre";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 4:
+                     numberName = "Quattro";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 5:
+                     numberName = "Cinque";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 6:
+                     numberName = "Sei";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 7:
+                     numberName = "Sette";
+                     System.out.println("il numero è " + numberName);
+                 case 8:
+                     numberName = "Otto";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 9:
+                     numberName = "Nove";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 10:
+                     numberName = "Dieci";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 11:
+                     numberName = "Undici";
+                     System.out.println("il numero è " + numberName);
+                     break;
+                 case 12:
+                     numberName = "Dodici";
+                     System.out.println("il numero è " + numberName);
+                     default:
+                         System.out.println("error");
 
-            switch (numeri){
-                case 1:
-                    System.out.println("uno");
-                    break;
-                case 2:
-                    System.out.println("due");
-                    break;
-                case 3:
-                    System.out.println("tre");
-                    break;
-                case 4:
-                    System.out.println("quattro");
-                    break;
-                case 5:
-                    System.out.println("cinque");
-                    break;
-                case 6:
-                    System.out.println("sei");
-                    break;
-                case 7:
-                    System.out.println("sette");
-                    break;
-                case 8:
-                    System.out.println("otto");
-                    break;
-                case 9:
-                    System.out.println("nove");
-                    break;
-                case 10:
-                    System.out.println("dieci");
-                    break;
-                default:
-                    System.out.println("Non posso darti il nome. Riprova.");
-                    break;
-            }
-        }
+
+             }
+
     }
 }
