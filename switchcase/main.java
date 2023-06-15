@@ -3,7 +3,7 @@ package switchcase;
 //        If the user input a number lower than 1 or greater than 10, print Cannot give you the
 public class main {
     public static void main(String[] args) {
-             int number = 6;
+             int number = 12;
              String numberName;
              switch (number){
                  case 1:
@@ -52,6 +52,7 @@ public class main {
                  case 12:
                      numberName = "Dodici";
                      System.out.println("il numero è " + numberName);
+                     break;
                      default:
                          System.out.println("error");
 
