@@ -11,7 +11,7 @@ public class array2 {
         primeNumbers[3] = 4;
         primeNumbers[4] = 5;
         primeNumbers[5] = 6;
-        System.out.println(primeNumbers.length);
-
+        for (int i = 0; i < primeNumbers.length; i++) {
+            System.out.println(primeNumbers[i]);
     }
 }
