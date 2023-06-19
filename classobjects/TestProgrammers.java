@@ -9,11 +9,13 @@ public class TestProgrammers {
                 programmer programmer1 = new programmer();
                 programmer1.Name = "Marcello";
                 programmer1.Age = 31;
+                programmer1.wearGlasses = true;
                 programmer1.drinkCoffe();
                 programmer1.printDetails();
 
                 programmer programmer2 = new programmer();
                 programmer2.Name = "Mario";
+                programmer2.wearGlasses = false;
                 programmer2.Age = 29;
                 programmer2.hasGlasses();
                 programmer2.printDetails();
