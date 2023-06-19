@@ -12,10 +12,10 @@ package while1;
 public class main {
     public static void main(String []args){
         int pounds = 10000;
-        double rateExchange = 1 + (Math.random() * 0.2);
         int dayCounter = 0;
 
        while(pounds >= 1000) {
+           double rateExchange = 1 + (Math.random() * 0.2);
            if (rateExchange > 1.15){
                pounds -= 1000;
            }
