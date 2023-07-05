@@ -16,6 +16,16 @@ public class main {
 
         System.out.println(weekDaysSet);
         HashSet<String> weekDaysSet1 = new LinkedHashSet<>();
+               
+        giorniSettimanaOrdinati.add("Lunedì");
+        giorniSettimanaOrdinati.add("Martedì");
+        giorniSettimanaOrdinati.add("Mercoledì");
+        giorniSettimanaOrdinati.add("Giovedì");
+        giorniSettimanaOrdinati.add("Venerdì");
+        giorniSettimanaOrdinati.add("Sabato");
+        giorniSettimanaOrdinati.add("Domenica");
+        
+        System.out.println(weekDaysSet1);
         System.out.println("Il primo set è uguale al secondo?");
 
         if (weekDaysSet1.equals(weekDaysSet)) {
@@ -25,4 +35,4 @@ public class main {
 }
 
 
-//ripeti lo stesso esercizio con dei nomi della frutta.
+
