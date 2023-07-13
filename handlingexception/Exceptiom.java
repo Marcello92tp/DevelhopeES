@@ -1,5 +1,3 @@
-package handlingexception;
-
 import java.util.Scanner;
 
 

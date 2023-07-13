@@ -1,5 +1,3 @@
-package enums;
-
 public class Enum {
     public static void main(String[] args) {
 enum Mesi{ JANUARY,

@@ -1,11 +1,8 @@
-package lists;
-
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class main {
+public class eselist {
     public static void main(String[] args) {
         List<String> nomeCitta = Arrays.asList("Trapani", "Pavia", "Milano");
         nomeCitta.set(1, "tegucigalpa");

@@ -1,5 +1,3 @@
-package maps;
-
 import java.util.HashMap;
 //Define a testing class with a main() method where you:
 //
@@ -9,7 +7,7 @@ import java.util.HashMap;
 //        print the modified firstHashMap
 //        print on screen the value of the keys 5, 6, 7, 8 and 9
 //        if there's no mapping for a specific key, print No associated value
-public class main {
+public class mapese {
     public static void main(String[] args) {
         HashMap<Integer, String> numbers = new HashMap<Integer, String>();
         numbers.put(1, "One");

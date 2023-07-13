@@ -1,8 +1,6 @@
-package setemaps;
-
 import java.util.*;
 
-public class main {
+public class esesm {
 
 
     public static void main(String[] args) {

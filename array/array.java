@@ -1,5 +1,3 @@
-package array;
-
 public class array {
     public static void main (String[] args){
         String [] carBrands = new String[5];

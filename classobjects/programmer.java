@@ -1,4 +1,3 @@
-package classobjects;
 //Create a Java class called Programmer
 //        The Programmer class will have the following instance variables:
 //        name as a string -----

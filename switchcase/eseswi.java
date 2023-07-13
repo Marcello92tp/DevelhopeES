@@ -1,7 +1,6 @@
-package switchcase;
 //Print the name of the number (e.g. 5 --> five)
 //        If the user input a number lower than 1 or greater than 10, print Cannot give you the
-public class main {
+public class eseswi {
     public static void main(String[] args) {
              int number = 12;
              String numberName;

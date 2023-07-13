@@ -1,8 +1,6 @@
-package dateesercizio;
-
 import java.time.LocalDate;
 
-public class main {
+public class pippo {
     public static void main(String[] args) {
 
         int giorniAFDMese = LocalDate.now().lengthOfMonth() - LocalDate.now().getDayOfMonth();

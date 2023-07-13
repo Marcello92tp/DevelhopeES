@@ -1,4 +1,3 @@
-package classobjects;
 //create a Java tester class called T estProgrammers where you
 //        create 2 Programmer objects (class instance)
 //        define the state of the objects by assigning values to the instance variables

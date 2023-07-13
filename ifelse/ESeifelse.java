@@ -1,6 +1,4 @@
-package ifelse;
-
-public class main  {
+public class ESeifelse {
 
         public static void main(String[] args) {
             String myName = "marcello";
