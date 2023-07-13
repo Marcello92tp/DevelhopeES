@@ -13,5 +13,6 @@ public class array2 {
         primeNumbers[5] = 6;
         for (int i = 0; i < primeNumbers.length; i++) {
             System.out.println(primeNumbers[i]);
+        }
     }
 }
