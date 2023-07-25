@@ -1,0 +1,8 @@
+
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åØ¡£şÿÿÿÿ8ÛÉÄ˜1
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¼À8ÛÉÄ˜1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÓœ°øÿÿÿÿ
+£
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åØ¡£şÿÿÿÿ8åÉÄ˜1
+
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö¼À8åÉÄ˜1

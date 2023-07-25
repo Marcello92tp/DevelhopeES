@@ -1,0 +1,5 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÓœ°øÿÿÿÿ8¹»ÈÃ˜1
+j	java:S116"ORename this field "Nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï’8º»ÈÃ˜1
+m	java:S116"QRename this field "Codice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ê¤–8º»ÈÃ˜1
+r	java:S116"QRename this field "Prezzo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÚÂÛúÿÿÿÿ8º»ÈÃ˜1
