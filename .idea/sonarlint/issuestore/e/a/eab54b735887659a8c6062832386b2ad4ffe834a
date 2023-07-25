@@ -1,0 +1,5 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á³³¯üÿÿÿÿ8üîô¿˜1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À¢¸üÿÿÿÿ8şîô¿˜1
+n	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¾­ûÿÿÿÿ8‚ïô¿˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú‘¬ôøÿÿÿÿ8‡ïô¿˜1
