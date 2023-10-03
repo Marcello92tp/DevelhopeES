@@ -1,14 +1,8 @@
 
-K
-Junit/JunitCalcoliTest.java,7\0\70a88e257ef497430f7d7ee52993d4ddc591bf13
 C
 polymorph/test.java,b\f\bf01bbb2f43d04fe1f9f0373c112a6e2938d1323
 E
 polymorph/Animal.java,3\9\39414f9a9afe8246a8d392e1f446b75ea2925f12
-C
-override/Shape.java,f\d\fd2492cd14b392a9f9ecb2c802b82edbd2f690fe
-B
-override/main.java,3\c\3cb5e23d3cae29782c07b43833377a5a6353045b
 M
 Intefaces/LearningPerson.java,d\5\d514f59e318c7ee00d03bad0c70759df94d80838
 L
@@ -30,17 +24,11 @@ H
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 Å
-Q.idea/sonarlint/securityhotspotstore/7/0/70a88e257ef497430f7d7ee52993d4ddc591bf13,7\d\7d72e7f5369bcc48424eaf641229be3e4317a491
-Å
 Q.idea/sonarlint/securityhotspotstore/3/9/39414f9a9afe8246a8d392e1f446b75ea2925f12,6\4\64685dd4fd52fbbde4c2a3745ce87f809014b273
-J
-Abstractclass/Vehicle.java,3\c\3cbbf79780847a4a266c273129121de38c30fe98
 G
 Abstractclass/Boat.java,0\5\059c33f46501fa625f5392a4aee7ba92c1712ca0
 F
 Abstractclass/Car.java,2\b\2b7054a89d8343eaa4a8db7775a1e245a4753299
-G
-Abstractclass/Main.java,5\2\525ed5d8e5fbdffa4225f413730c239d89ac76a1
 O
 esercizioPasquale/Prodotto.java,1\9\1984e743da2227cc9a20fa3c9e7eb64c5aa5fd35
 X
@@ -53,16 +41,10 @@ Z
 *esercizioPasquale/ProdottoElettronico.java,c\7\c74b9857e522219296f73192edf4dcb34c2a5a48
 M
 esercizioPasquale/Ordine.java,8\1\81ccfdd0f9affbba83f88c931da472c15ff1b361
-Å
-Q.idea/sonarlint/securityhotspotstore/3/c/3cb5e23d3cae29782c07b43833377a5a6353045b,c\d\cd0009230c28856d2e50ed23ba33db8a35674128
-Å
-Q.idea/sonarlint/securityhotspotstore/3/c/3cbbf79780847a4a266c273129121de38c30fe98,6\8\680d5b549f8a2a8e0e61270e722df5fcbf896060
 w
 G.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,a\e\ae9ddf453f55affea2d6b9e3973cac1eb2efb4e1
 w
 G.idea/sonarlint/issuestore/7/d/7d72e7f5369bcc48424eaf641229be3e4317a491,f\6\f65ab79ce1a0f6ff3860c6b1729736b189905c6f
-Å
-Q.idea/sonarlint/securityhotspotstore/f/d/fd2492cd14b392a9f9ecb2c802b82edbd2f690fe,e\2\e2ea3bf7956da882f3e2d41810e4d13a22e33d75
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
 Å
@@ -82,8 +64,6 @@ Q.idea/sonarlint/securityhotspotstore/0/5/059c33f46501fa625f5392a4aee7ba92c1712c
 Å
 Q.idea/sonarlint/securityhotspotstore/2/b/2b7054a89d8343eaa4a8db7775a1e245a4753299,6\7\67d635adc5ad6753a6a8e1dcfc1298c54483f261
 Å
-Q.idea/sonarlint/securityhotspotstore/5/2/525ed5d8e5fbdffa4225f413730c239d89ac76a1,1\4\148e3688503110be78257e3ecf2342caad5e2ef4
-Å
 Q.idea/sonarlint/securityhotspotstore/2/f/2f990a1b74b9a65320c8fefbfac55d5d5a240604,d\c\dcccacdaff4dbada6ba7875fe65282b4f669b377
 w
 G.idea/sonarlint/issuestore/e/6/e67f550eee479819334940ed6ae8d38770b9eb33,f\c\fc882bc0570033d9f64ddddb5d21dabc8b07d9c7
@@ -96,8 +76,6 @@ Q.idea/sonarlint/securityhotspotstore/9/5/957e522281c8a94c6838cb417c631681b8356f
 Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
 w
-G.idea/sonarlint/issuestore/5/2/525ed5d8e5fbdffa4225f413730c239d89ac76a1,e\a\ea1976d9623c05e0463f1d1ddaf7dab142a27de4
-w
 G.idea/sonarlint/issuestore/6/4/64685dd4fd52fbbde4c2a3745ce87f809014b273,1\6\16ec991c260eecc2a8679375ef21b4f7274206af
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
@@ -107,3 +85,17 @@ Q
 !eserciziomix/SmartphonePrice.java,d\c\dc21168c23f4658c588019f0194e9562349e8749
 F
 eserciziomix/Main.java,7\5\756007aa7ea1ddb9629bd8befb8d4fc2dfb6a2c7
+G
+Abstractclass/Main.java,5\2\525ed5d8e5fbdffa4225f413730c239d89ac76a1
+<
+src/file.txt,b\e\bea43708417cf47e9839ec1370e5ceb13288ecfc
+B
+override/main.java,3\c\3cb5e23d3cae29782c07b43833377a5a6353045b
+J
+Abstractclass/Vehicle.java,3\c\3cbbf79780847a4a266c273129121de38c30fe98
+K
+Junit/JunitCalcoliTest.java,7\0\70a88e257ef497430f7d7ee52993d4ddc591bf13
+C
+override/Shape.java,f\d\fd2492cd14b392a9f9ecb2c802b82edbd2f690fe
+?
+src/Tester.java,e\e\eef4871d67f13624eb03b73ffb8e7c2e9c73abfa

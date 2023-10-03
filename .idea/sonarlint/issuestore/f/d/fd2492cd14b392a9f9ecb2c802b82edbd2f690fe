@@ -1,2 +1,7 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Èš»´øÿÿÿÿ8ÐÓ“¼˜1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÛŠàýÿÿÿÿ8ù£‹äš1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÛŠàýÿÿÿÿ8ù£‹äš1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÛŠàýÿÿÿÿ8ù£‹äš1
+b
+java:S1172"@Remove these unused method parameters "EDGE1", "EDGE2", "EDGE3".(…ÛŠàýÿÿÿÿ8“¤‹äš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Èš»´øÿÿÿÿ8•¤‹äš1

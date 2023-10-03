@@ -6,7 +6,7 @@ public class Main {
 
         Vehicle barca1 = new Boat("Dufour", 0, 15.0, 650);
         Vehicle car1 = new Car("Ferrari", 4, 2, 250000.0);
-        Vehicle veicolo = new Vehicle() {
+        Vehicle veicolo = new Vehicle(",",1) {
             @Override
             public void showVehicleDetails() {
                 super.showVehicleDetails();
@@ -16,7 +16,7 @@ public class Main {
             void doVehicleSound() {
                 super.doVehicleSound();
             }
-        }
+        };
 
         System.out.println("\nBarche");
 
