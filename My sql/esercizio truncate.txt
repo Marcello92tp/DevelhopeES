@@ -1,0 +1,22 @@
+CREATE TABLE Customers (
+ customer_id INT NOT NULL AUTO_INCREMENT,
+ first_name VARCHAR(255) NOT NULL,
+ last_name VARCHAR(255) NOT NULL,
+ email VARCHAR(255) NOT NULL,
+ PRIMARY KEY (customer_id)
+);
+
+insert into customers (first_name, last_name, email)
+values('Marcello', 'Rossi', 'mercellorossi@develhope.com'),
+('Gigi', 'Proietti', 'gigiproietti@develhope.com'),
+('Rosa', 'Giuliano', 'rosagiuliano@develhope.com'),
+('Easter', 'Pinoli', 'easterpinoli@develhope.com');
+
+update customers
+set first_name = 'Rossen'
+where customer_id = 4;
+
+delete from customers
+where customer_id = 4;
+
+truncate customers;
