@@ -14,7 +14,7 @@ public class Main {
 
         // Test add Hello World
         String helloWorld = wordGames.addHelloWord("World");
-        System.out.println("Add Hello World: " + helloWorld);
+        System.out.println("Add Hello Word: " + helloWorld);
 
         // Test nome Completo
         String nomeCompleto = wordGames.getFullName("Marcello", "Gerardi");
